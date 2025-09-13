@@ -1,8 +1,9 @@
 # 📘 Repositorio de Tareas - Curso Base de Datos
 
 ## 📌 Descripción
-Este repositorio contiene las cuatro tareas prácticas del curso de **Base de Datos**.  
-Cada carpeta incluye todos los productos solicitados por el docente (documentación, código, archivos necesarios y enlace a la sustentación).
+ **Base de Datos**.  
+La carpeta incluye todos los productos solicitados por el docente (documentación, código, archivos necesarios y enlace a la sustentación).
+aun que nosotros no hicimos el video, pero si la tarea en si.
 
 ## 🎯 Propósito
 Organizar y centralizar todas las entregas del curso, asegurando que cada tarea esté completa, clara y lista para revisión.
