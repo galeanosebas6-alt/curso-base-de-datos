@@ -1,22 +1,21 @@
-# 📘 Repositorio de Tareas - Curso Base de Datos
+Institución Universitaria Pascual Bravo
 
-## 📌 Descripción
- **Base de Datos**.  
-La carpeta incluye todos los productos solicitados por el docente (documentación, código, archivos necesarios y enlace a la sustentación).
-aun que nosotros no hicimos el video, pero si la tarea en si.
+Programa: Tecnología en Desarrollo de Software
+Curso: Base de Datos I (ET0057)
 
-## 🎯 Propósito
-Organizar y centralizar todas las entregas del curso, asegurando que cada tarea esté completa, clara y lista para revisión.
+Profesor: Jaime E. Soto U.
 
-## 👥 Miembros del equipo
-- Sebastián Fonnegra Galeano
-- Juan Bernardo Rivera García [lider]
-- Laura Tatiana Lopez Sánchez   
-- [Nombre de tu compañero, si aplica]  
+Grupo: #6
 
-## 📂 Contenido
-- **Tarea 1** → Documentos, código y enlace al video.  
+Propósito
 
+Este repositorio contiene las tareas prácticas del curso Base de Datos I, desarrolladas por el equipo de trabajo como parte de la evaluación del semestre.
+Cada carpeta corresponde a una de las tareas solicitadas en clase.
 
-## 🎥 Enlaces a sustentaciones
-- Tarea 1: [Video de sustentación](https://enlace-del-video.com)  
+Miembros del Equipo
+
+Líder: Juan Bernardo Rivera Garcia
+
+Integrante: Sebastian Fonnegra Galeano
+
+Integrante: Laura Tatiana Lopez Sanchez
