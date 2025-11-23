@@ -1,0 +1,12 @@
+--
+-- Taller Recuperacion 30%
+-- ENLACE A VIDEO (youtube, vimeo, drive de google, entre otros.
+--
+-- Sebastian Fonnegra
+-- Laura Lopez
+-- Juan Rivera
+
+--
+-- Colocar el enlace al video:
+--
+Link: https://drive.google.com/file/d/17f_JMPTM_3pFXbn5mD3U_rREjmvZ2coI/view?usp=sharing 
