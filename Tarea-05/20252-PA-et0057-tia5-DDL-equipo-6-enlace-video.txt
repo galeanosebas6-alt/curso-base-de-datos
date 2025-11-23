@@ -1,0 +1,12 @@
+--
+-- Tarea 5 - Parte #1 del Proyecto de Aula
+-- ENLACE A VIDEO (youtube, vimeo, drive de google, entre otros.
+--
+-- Sebastian Fonnegra
+-- Laura Lopez
+-- Juan Rivera
+
+--
+-- Colocar el enlace al video con nombre "20252-PA-et0057-tia5-DDL-Grupo-6-video"
+--
+Link: https://drive.google.com/file/d/1RvAxAmGjNW9IifGdeMBTmdeXQBiKthfo/view?usp=sharing
